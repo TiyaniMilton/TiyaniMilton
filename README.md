@@ -13,7 +13,7 @@ Been in the industry for some time, seen technology trends come and go but the m
 > ## Current involvements and projects
 
 <picture >
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="IMG_0341.jpeg" width="300"  align="right" >
+  <img src="IMG_0341.jpeg" width="300 "align="right" >
 </picture>
 
 > * Nedbank Microsoft Dynamics 365 projects
@@ -27,4 +27,9 @@ Been in the industry for some time, seen technology trends come and go but the m
 
 ![Tiyani's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiyaniMilton&show_icons=true&theme=radical)
 
-How to reach me: tiyanimilton@hotmail.com
+How to reach me: 
+    - [![](computer-clipart-purple-9.webp)](tiyanimilton@hotmail.com)
+
+
+Here is an inline ![smiley](computer-clipart-purple-9.webp){:height="36px" width="36px"}.
+
