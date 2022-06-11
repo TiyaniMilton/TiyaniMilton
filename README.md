@@ -26,10 +26,3 @@ Been in the industry for some time, seen technology trends come and go but the m
 >   * Microsoft Power Platform
 
 ![Tiyani's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiyaniMilton&show_icons=true&theme=radical)
-
-How to reach me: 
-    - [![](computer-clipart-purple-9.webp)](tiyanimilton@hotmail.com)
-
-
-Here is an inline ![smiley](computer-clipart-purple-9.webp){:height="36px" width="36px"}.
-
