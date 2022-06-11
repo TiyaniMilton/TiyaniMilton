@@ -29,4 +29,6 @@ Been in the industry for some time, seen technology trends come and go but the m
 
 ### Connect with me on
 
-* 🏢 [LinkedIn](https://www.linkedin.com/in/tiyani-magomani-23b33b71)
+* [<img src="medium.webp" width="16">](medium.webp) [Medium articles](https://medium.com/@tiyanimilton)
+* [<img src="linkedin.webp" width="16">](linkedin.webp) [LinkedIn](https://medium.com/@tiyanimilton)
+* 📨 [Email](tiyanimilton@hotmail.com)
