@@ -1,4 +1,4 @@
-# Hi I'm **<span style="color:blue">Tiyani Magomani.</span>**
+# Hi I'm **<font color="#4169e1">Tiyani Magomani.</font>**
 
 <picture >
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="Magomani,Tiyani.jpg" width="220px" height="250"  align="left" style="border-radius: 50%;">
