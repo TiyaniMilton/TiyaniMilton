@@ -5,7 +5,8 @@ Hobbies or interests traveling, music and continuous Learning new things everyda
 
 Been in the industry for some time, seen technology trends come and go but the most interesting thing is learning never stops and the technology never stops evolving.
 
-## Current involvements and projects
+
+ ## Current involvements and projects
 
 <picture >
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="IMG_0341.jpeg" width="300"  align="right" >
