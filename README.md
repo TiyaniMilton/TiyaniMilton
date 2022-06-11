@@ -21,10 +21,9 @@
   </p>
   </p>
 
-<picture>
-    <kbd>
-        <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="Magomani,Tiyani.jpg" width="70px"  align="left" >
-    </kbd>
+<picture >
+
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="Magomani,Tiyani.jpg" width="85px" height="80px"  align="left" style="border-radius: 50%;">
 </picture>
 
 I am a Developer/Microsoft Dynamics 365 Specialist/Software Engineer who loves programming and solving real problems.
