@@ -1,10 +1,8 @@
 # Hi I'm **<span style="color:blue">Tiyani Magomani.</span>**
 
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
-</p>
+ <img width="100px" src="Magomani,Tiyani.jpg" align="center" alt="Profile Pic Anime" />
+
   <p align="center">
     <a href="https://github.com/tiyanimilton/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
