@@ -3,7 +3,8 @@
 
 I am a Developer/Microsoft Dynamics 365 Specialist/Software Engineer who loves programming and solving real problems.\
 Hobbies or interests traveling, music and continuous Learning new things everyday.\
-Been in the industry for some time, seen technology trends come and go but the most interesting thing is learning never stops and the technology never stops evolving.
+Experienced Senior Management with a demonstrated history of working in the Information Technology and services industry.\
+Interesting thing is learning never stops and the technology never stops evolving.
 
 
 ### Languages and Tools:
@@ -33,6 +34,7 @@ Been in the industry for some time, seen technology trends come and go but the m
 ### Connect with me
 
 [<img src="medium.webp" width="32">](medium.webp) [](https://medium.com/@tiyanimilton)   [<img src="linkedin.webp" width="32">](linkedin.webp) [](https://medium.com/@tiyanimilton) 📨 [](tiyanimilton@hotmail.com) [<img src="twitter.webp" width="32">](twitter.webp) [](https://twitter.com/magomani_tiyani)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="background-color:white;">
