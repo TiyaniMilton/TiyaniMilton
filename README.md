@@ -5,7 +5,7 @@ Hobbies or interests traveling, music and continuous Learning new things everyda
 
 Been in the industry for some time, seen technology trends come and go but the most interesting thing is learning never stops and the technology never stops evolving.
 
-![Drag Racing]([Dragster.jpg](https://photos.app.goo.gl/qY1TPhPvify8NAvt7))
+![Drag Racing](https://photos.app.goo.gl/qY1TPhPvify8NAvt7)
 
 
 ### Current involvements and projects:
