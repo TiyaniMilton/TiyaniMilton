@@ -8,7 +8,7 @@ Been in the industry for some time, seen technology trends come and go but the m
 ## Current involvements and projects
 
 <picture >
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="IMG_0341.jpeg" width="250"  align="right" >
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="IMG_0341.jpeg" width="300"  align="right" >
 </picture>
 
     * Nedbank Microsoft Dynamics 365 projects
