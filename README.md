@@ -26,6 +26,9 @@
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="Magomani,Tiyani.jpg" width="85px" height="80px"  align="left" style="border-radius: 50%;">
 </picture>
 
+
+<a href="url"><img src="Magomani,Tiyani.jpg" height="auto" width="200" style="border-radius:50%"></a>
+
 I am a Developer/Microsoft Dynamics 365 Specialist/Software Engineer who loves programming and solving real problems.
 Hobbies or interests traveling, music and continuous Learning new things everyday.
 
