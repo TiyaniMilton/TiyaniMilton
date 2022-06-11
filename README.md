@@ -45,7 +45,7 @@ Been in the industry for some time, seen technology trends come and go but the m
 >   * Angular projects
 >   * React.js
 >   * Microsoft SSIS
->   * Azure Functions
+>   * Azure Development
 >   * Microsoft Power Platform
 
 How to reach me: tiyanimilton@hotmail.com
