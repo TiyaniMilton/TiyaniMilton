@@ -5,7 +5,8 @@ Hobbies or interests traveling, music and continuous Learning new things everyda
 
 Been in the industry for some time, seen technology trends come and go but the most interesting thing is learning never stops and the technology never stops evolving.
 
-| ### Current involvements and projects |   |
+### Current involvements and projects
+|   |   |
 |---|---|
 | * Nedbank Microsoft Dynamics 365 projects <br> * Nedbank Microsoft Dynamics 365 projects <br> * Nedbank Customizations and Custom Apps <br>       - Angular projects <br>       - React.js <br>       - Microsoft SSIS <br>       - Azure Functions <br>       - Microsoft Power Platform <br> | ![](IMG_0341.jpeg) |
 
