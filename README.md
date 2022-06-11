@@ -1,7 +1,7 @@
 # Hi I'm **<span style="color:blue">Tiyani Magomani.</span>**
 
 <p align="center">
- <img width="100px" src="Magomani,Tiyani.jpg" align="center" alt="Profile Pic Anime" />
+ 
 
   <p align="center">
     <a href="https://github.com/tiyanimilton/github-readme-stats/actions">
@@ -21,6 +21,11 @@
     
   </p>
   </p>
+
+<picture >
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="Magomani,Tiyani.jpg" width="70px"  align="left" >
+</picture>
+
 
 I am a Developer/Microsoft Dynamics 365 Specialist/Software Engineer who loves programming and solving real problems.
 Hobbies or interests traveling, music and continuous Learning new things everyday.
