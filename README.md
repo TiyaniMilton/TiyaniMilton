@@ -37,3 +37,4 @@ Been in the industry for some time, seen technology trends come and go but the m
 * [<img src="medium.webp" width="16">](medium.webp) [Medium articles](https://medium.com/@tiyanimilton)
 * [<img src="linkedin.webp" width="16">](linkedin.webp) [LinkedIn](https://medium.com/@tiyanimilton)
 * 📨 [Email](tiyanimilton@hotmail.com)
+* [<img src="twitter.webp" width="16">](twitter.webp) [twitter](https://twitter.com/magomani_tiyani)
