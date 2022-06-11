@@ -1,5 +1,7 @@
 # Hi I'm **<span style="color:blue">Tiyani Magomani.</span>**
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TiyaniMilton&repo=github-readme-stats)](https://github.com/TiyaniMilton/github-readme-stats)
+
 <p align="center">
 
   <p align="center">
