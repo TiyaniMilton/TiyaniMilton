@@ -26,3 +26,7 @@ Been in the industry for some time, seen technology trends come and go but the m
 >   * Microsoft Power Platform
 
 ![Tiyani's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiyaniMilton&show_icons=true&theme=radical)
+
+Connect with me on:
+
+* 🏢 [LinkedIn](https://www.linkedin.com/in/tiyani-magomani-23b33b71)
