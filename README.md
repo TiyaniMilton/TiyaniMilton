@@ -1,27 +1,11 @@
 # Hi I'm **<span style="color:blue">Tiyani Magomani.</span>**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TiyaniMilton&repo=github-readme-stats)](https://github.com/TiyaniMilton/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiyaniMilton&layout=compact)](https://github.com/TiyaniMilton/Movie-Cleanup)
 
-<p align="center">
+![Tiyani's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiyaniMilton&show_icons=true&theme=radical)
 
-  <p align="center">
-    <a href="https://github.com/tiyanimilton/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://codecov.io/gh/tiyanimilton/github-readme-stats">
-      <img src="https://codecov.io/gh/tiyanimilton/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/tiyanimilton/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/tiyanimilton/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/tiyanimilton/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/tiyanimilton/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-    <br />
 
-  </p>
-  </p>
+
 
 <picture >
 
