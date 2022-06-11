@@ -23,7 +23,7 @@
 
 <picture >
 
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="Magomani,Tiyani.jpg" width="85px" height="auto"  align="left" style="border-radius: 50%;">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="Magomani,Tiyani.jpg" width="85px" height="90"  align="left" style="border-radius: 50%;">
 </picture>
 
 
