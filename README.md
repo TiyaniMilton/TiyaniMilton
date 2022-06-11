@@ -1,21 +1,14 @@
 # Hi I'm **<span style="color:blue">Tiyani Magomani.</span>**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiyaniMilton&layout=compact)](https://github.com/TiyaniMilton/Movie-Cleanup)
-
-![Tiyani's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiyaniMilton&show_icons=true&theme=radical)
-
-
-
-
 <picture >
 
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="Magomani,Tiyani.jpg" width="85px" height="90"  align="left" style="border-radius: 50%;">
 </picture>
 
-
-
 I am a Developer/Microsoft Dynamics 365 Specialist/Software Engineer who loves programming and solving real problems.
 Hobbies or interests traveling, music and continuous Learning new things everyday.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiyaniMilton&layout=compact)](https://github.com/TiyaniMilton/Movie-Cleanup)
 
 Been in the industry for some time, seen technology trends come and go but the most interesting thing is learning never stops and the technology never stops evolving.
 
@@ -33,5 +26,7 @@ Been in the industry for some time, seen technology trends come and go but the m
 >   * Microsoft SSIS
 >   * Azure Development
 >   * Microsoft Power Platform
+
+![Tiyani's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiyaniMilton&show_icons=true&theme=radical)
 
 How to reach me: tiyanimilton@hotmail.com
