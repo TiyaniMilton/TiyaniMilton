@@ -11,7 +11,7 @@ Been in the industry for some time, seen technology trends come and go but the m
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="IMG_0341.jpeg" width="300"  align="right" >
 </picture>
 
-    * Nedbank Microsoft Dynamics 365 projects
+>    * Nedbank Microsoft Dynamics 365 projects
     * Magomani Media Projects (Video Production & Radio)  
     * Nedbank Customizations and Custom Apps
       - Angular projects
