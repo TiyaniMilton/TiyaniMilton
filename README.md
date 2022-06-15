@@ -25,7 +25,7 @@ Interesting thing is learning never stops and the technology never stops evolvin
 > * Nedbank Customizations and Custom Apps
 >   * Angular projects
 >   * React.js
->   * Microsoft SSIS
+>   * Microsoft SQL Server Integration Services
 >   * Azure Development
 >   * Microsoft Power Platform
 
