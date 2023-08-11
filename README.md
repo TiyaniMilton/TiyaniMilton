@@ -1,9 +1,6 @@
 # Hi I'm **<font color="#4169e1">Tiyani Magomani.</font>**
 
-I am a Developer/Microsoft Dynamics 365 Specialist/Software Engineer who loves programming and solving real problems.\
-Hobbies or interests traveling, music and continuous Learning new things everyday.\
-Experienced Senior Management with a demonstrated history of working in the Information Technology and services industry.\
-Interesting thing is learning never stops and the technology never stops evolving.
+I am an accomplished Developer specializing in Microsoft Dynamics 365, bolstered by a robust foundation as a Software Engineer. Additionally, I am a Tech YouTuber, focusing on disseminating knowledge encompassing Microsoft Power Platform, Dynamics, and other pertinent development subjects. \ My fervor is dedicated to the creation of inventive programming solutions tailored to address substantive challenges. \ Beyond my professional endeavors, I harbor a profound enthusiasm for travel and music, which harmoniously complements my steadfast commitment to perpetual self-improvement. Backed by a proven history in senior management capacities within the Information Technology and services realm, I possess a reservoir of valuable experience. \ I am notably captivated by the ceaseless trajectory of learning and the ever-evolving landscape of technology, driving my resolute dedication to remain at the vanguard of progress.
 
 ### Languages and Tools
 
